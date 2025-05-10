@@ -115,7 +115,7 @@ img   {
 }
 
 .hero-background {
-    background: url("../images/bg.jpg") no-repeat center bottom;
+    background: url("bg.jpg") no-repeat center bottom;
     background-size: contain;
     height: auto;
     padding-top: 70%;
